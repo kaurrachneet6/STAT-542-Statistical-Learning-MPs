@@ -9,3 +9,8 @@ The first prediction method used is linear regression with feature selection usi
 **Project 2:** Lending club loan data analysis
 
 Create a model that predicts whether or not a loan will be default using the historical data. The historical loan data we use is downloaded from Kaggle. It contains 887379 records and 74 explanatory variables. In our data preprocessing procedure, we drop some irrelevant variables, dealing with some unusual values, fill missing values, combine levels of categorical variables and dummy coding. Then we apply various advanced models to predict the loan status. After evaluating their performance, we find that xgboot, random forest and ensemble model are robust and well-performed, so we set them as our three prediction methods.
+
+**Project 3:** Movie Recommendation System
+
+Our goal is to build a movie recommender system based on the MovieLens 1M Dataset. 
+In the train.dat, it contains about 60% rows of the ratings.dat from the MovieLens 1M dataset (of the same format). And in the test.csv, it contains about 20% of the user-movie pairs from the ratings.dat from the MovieLens 1M dataset. In our data preprocessing procedure, we get the rating matrix and the movie feature matrix at first. Then we apply content-based method and collaborative filtering method to predict the ratings.
