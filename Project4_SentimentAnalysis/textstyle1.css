@@ -1,0 +1,29 @@
+
+body {
+ margin-right: 50px;
+ margin-left: 50px;
+ margin-top: auto;
+ width: 680px;
+ font-size: 14px;
+ font-family: Helvetica,Arial, sans-serif;
+}
+
+.neg{
+    background-color: lightcyan;
+    color: black;
+}
+
+.pos{
+    background-color: pink;
+    color: black;
+}
+
+.exneg{
+    background-color: skyblue;
+    color: black;
+}
+
+.expos{
+    background-color: tomato;
+    color: black;
+}
