@@ -14,3 +14,8 @@ Create a model that predicts whether or not a loan will be default using the his
 
 Our goal is to build a movie recommender system based on the MovieLens 1M Dataset. 
 In the train.dat, it contains about 60% rows of the ratings.dat from the MovieLens 1M dataset (of the same format). And in the test.csv, it contains about 20% of the user-movie pairs from the ratings.dat from the MovieLens 1M dataset. In our data preprocessing procedure, we get the rating matrix and the movie feature matrix at first. Then we apply content-based method and collaborative filtering method to predict the ratings.
+
+**Project 4:** Sentiment Analysis 
+
+The labeled training data set consists of 25,000 IMDB movie reviews, while the test data set contains 25,000 reviews without labels. In this project, we need to predict the label of the test data using sentiment analysis techniques.
+
