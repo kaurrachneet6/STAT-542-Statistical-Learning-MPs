@@ -19,3 +19,6 @@ In the train.dat, it contains about 60% rows of the ratings.dat from the MovieLe
 
 The labeled training data set consists of 25,000 IMDB movie reviews, while the test data set contains 25,000 reviews without labels. In this project, we need to predict the label of the test data using sentiment analysis techniques.
 
+**Project 5:** Predict Walmart sales 
+
+The Walmart data we use is downloaded from Kaggle. There are 45 stores and 81 departments in this data set. Our goal is to predict the weekly sales in each store under each department. First, we fill missing values in our data set and plot our data to find their patterns. Then, we applied three models including Seasonal Naïve Method, Product Method and ARIMA Model to do prediction and evaluate their performance using WMAE.
