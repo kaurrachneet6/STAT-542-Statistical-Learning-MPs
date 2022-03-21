@@ -1,4 +1,4 @@
-# STAT-542-Mini-Projects
+# STAT-542 Statistical Learning, UIUC Machine Problems 
 The repository contains the R coding projects for STAT 542 Statistical Learning course
 
 Project 1: R code to predict the prices for the Iowa Housing Data
